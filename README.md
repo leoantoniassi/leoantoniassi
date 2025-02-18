@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**leoantoniassi/leoantoniassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Aqui, mostro meus projetos e o que estou aprendendo.
 
-Here are some ideas to get you started:
+✨ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Estudante da Fatec Jahu - Desenvolvimento de Software Multiplataforma
+
+📚 Estou aprendendo:
+
+HTML
+
+CSS
+
+JavaScript
+
+SQLYog
+
+🔗 Meus projetos
+
+Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/site-donuts/)
+
+Este projeto está em desenvolvimento para ajudar no negócio da minha prima, facilitando o pedido para o cliente e ajudando-a a organizar os pedidos de maneira mais eficiente.
+
+Projeto 2 - [PI FATEC](https://github.com/oVeronezi/PI-FATEC)
+
+Este projeto foi desenvolvido em parceria com um colega de sala para criar um website que divulga o curso em que estamos matriculados.
+
+📬 Como falar comigo
+
+[LinkedIn - Leonardo Antoniassi](https://www.linkedin.com/in/leonardo-antoniassi-46084a322/)
