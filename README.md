@@ -16,6 +16,8 @@ JavaScript
 
 SQLYog
 
+Python
+
 🔗 Meus projetos
 
 Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/site-donuts/)
