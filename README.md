@@ -20,7 +20,7 @@ Python
 
 🔗 Meus projetos
 
-Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/site-donuts/)
+Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/donuts-tata/)
 
 Este projeto está em desenvolvimento para ajudar no negócio da minha prima, facilitando o pedido para o cliente e ajudando-a a organizar os pedidos de maneira mais eficiente.
 
