@@ -18,6 +18,8 @@ SQLYog
 
 Python
 
+PHP
+
 🔗 Meus projetos
 
 Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/donuts-tata/)
