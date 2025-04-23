@@ -22,7 +22,7 @@ Python
 
 Projeto 1 - [SITE DONUTS](https://leoantoniassi.github.io/donuts-tata/)
 
-Este projeto está em desenvolvimento para ajudar no negócio da minha prima, facilitando o pedido para o cliente e ajudando-a a organizar os pedidos de maneira mais eficiente.
+Este projeto está em desenvolvimento para ajudar no negócio da minha prima, facilitando o pedido para o cliente e ajudando a organizar os pedidos de maneira mais eficiente.
 
 Projeto 2 - [PI FATEC](https://github.com/oVeronezi/PI-FATEC)
 
